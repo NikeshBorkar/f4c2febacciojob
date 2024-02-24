@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4c2febacciojob/static/css/main.81a9f06f.css",
+    "main.js": "/f4c2febacciojob/static/js/main.fe4323d2.js",
+    "index.html": "/f4c2febacciojob/index.html",
+    "main.81a9f06f.css.map": "/f4c2febacciojob/static/css/main.81a9f06f.css.map",
+    "main.fe4323d2.js.map": "/f4c2febacciojob/static/js/main.fe4323d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a9f06f.css",
+    "static/js/main.fe4323d2.js"
+  ]
+}
